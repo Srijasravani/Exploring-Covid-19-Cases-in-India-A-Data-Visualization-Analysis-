@@ -1,4 +1,4 @@
-# Covid-19
+# Exploring Covid-19 Cases in India: A Data Visualization Analysis
 This code is written in Python and uses several libraries such as pandas, numpy, seaborn, and matplotlib. The code reads a CSV file named "Latest Covid-19 India Status.csv" using the pandas library and stores the data in a pandas DataFrame object named 'data'. The first few rows of the DataFrame are displayed using the 'head()' function.
 
 The code then uses the seaborn library to create visualizations of the data. Specifically, it creates three different plots using the 'relplot()', 'pairplot()', and 'catplot()' functions.
